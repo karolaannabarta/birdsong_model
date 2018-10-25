@@ -4,5 +4,5 @@ This is an agent-based model to imitate and investigate the cultural evolution o
 If you want to run the program you have to run the cycle_facinh.py file for the structured/guided/controlled learning.
 to get the results of the random learning you have to run the cycle_random.py file.
 
-If you have any questions, feel free to contact me: karolabarta@gmail.com
+If you have any questions, feel free to contact me: bartakarola@caesar.elte.hu
 Thanks!
